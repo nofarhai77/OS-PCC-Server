@@ -1,7 +1,6 @@
 # OS-PCC-Server
 
-Implementation of a toy client/server architecture: a printable characters counting (PCC) server.
-Written in c as an assignment in operating-systems course (Tel Aviv University).
+Implementation of a toy client/server architecture: a printable characters counting (PCC) server.  Written in c as an assignment in operating-systems course (Tel Aviv University).
 
 # Assignments goal
 The goal of this assignment is to gain experience with sockets and network programming.
